@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "preMediK",
+    "slug": "premedik",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "vn.med.premedik",
+      "infoPlist": {
+        "NSCameraUsageDescription": "preMediK cần quyền truy cập Camera để chụp ảnh phim X-quang ngực vào khung căn chỉnh.",
+        "NSPhotoLibraryUsageDescription": "preMediK cần quyền truy cập thư viện ảnh để chọn tệp ảnh X-quang ngực."
+      }
+    },
+    "android": {
+      "package": "vn.med.premedik",
+      "permissions": [
+        "CAMERA",
+        "READ_EXTERNAL_STORAGE",
+        "WRITE_EXTERNAL_STORAGE"
+      ]
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "appId": "vn.med.premedik",
+  "appName": "preMediK",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 1500,
+      "backgroundColor": "#0d746e"
+    }
+  }
+}

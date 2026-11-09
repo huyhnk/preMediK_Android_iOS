@@ -1,0 +1,10 @@
+{
+  "name": "preMediK - Sàng lọc Lao phổi, Viêm phổi & Phân mức Ưu tiên",
+  "short_name": "preMediK",
+  "description": "Ứng dụng di động sàng lọc X-quang ngực (ResNet50V2-LRMH) và phân loại ưu tiên lâm sàng (24 màn hình UI01-UI24)",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f8fafc",
+  "theme_color": "#0d746e"
+}
