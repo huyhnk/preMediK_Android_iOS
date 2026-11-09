@@ -8,7 +8,7 @@ on:
 jobs:
   build-ios-ipa:
     name: Build iOS .IPA (macOS Xcode)
-    runs-on: macos-13
+    runs-on: macos-15
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
